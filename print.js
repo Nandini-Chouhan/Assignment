@@ -8,3 +8,4 @@ var ob = {
 const values= Object.values(ob);
 for(let i in values)
 console.log(values[i]);
+console.log("Changes!!");
